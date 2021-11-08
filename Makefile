@@ -28,7 +28,6 @@ all:
 	gcc -o $(NAME) $(SRC) -g -Wall -Wextra -I include/ -g3
 clean:
 	rm -f $(OBJ)
-	rm *.o
 
 fclean: clean
 	rm -f $(NAME)
