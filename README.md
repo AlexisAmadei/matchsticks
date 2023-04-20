@@ -1,4 +1,6 @@
 # matchsticks
+EPITECH projet en C
+
 ## usage:
 ```
 $ git clone git@github.com:AlexisAmadei/matchsticks.git
